@@ -29,6 +29,9 @@ class WeatherViewController: UIViewController{
         weatherManager.delegate = self
         searchTextField.delegate = self
     }
+    @IBAction func locationPressed(_ sender: UIButton) {
+        locationManager.requestLocation()
+    }
     
 }
 
