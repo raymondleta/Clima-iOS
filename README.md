@@ -4,8 +4,10 @@
 
 The Clima app allows you to search for any location and get the weather details of the location. It also includes incorporation of light and dark modes
 
-![Day](Documentation/1.png)
-![Night mode](Documentation/2.png)
+ Light Mode                    |  Dark Mode
+:-----------------------------:|:--------------------------------:
+ ![Day](Documentation/1.png)   | ![Night mode](Documentation/2.png)
+
 
 ## Contributors
 Raymond Gitonga
